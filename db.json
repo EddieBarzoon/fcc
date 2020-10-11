@@ -1,6 +1,5 @@
 [
-{
-  "users": [
+  
     {
       "id": 1,
       "name": "Paraskevas Koutsikos",
@@ -23,12 +22,28 @@
         "catchPhrase": "Kobres Athinaioi",
         "bs": "Niptw tas poutsas mou"
       }
+    },
+	{
+      "id": 2,
+      "name": "Paraskevas Koutsikos",
+      "username": "Trobetes",
+      "email": "theo@theo.com",
+      "phone": "123456789",
+      "website": "theo.org",
+      "address": {
+        "street": "Gamw kai Dernw",
+        "suite": "Apt. 556",
+        "city": "Katw kolomedagkona",
+        "zipcode": "111-222-333",
+        "geo": {
+          "lat": "-xxxxxxx",
+          "lng": "yyyyyyy"
+        }
+      },
+      "company": {
+        "name": "Gamistronas FC",
+        "catchPhrase": "Kobres Athinaioi",
+        "bs": "Niptw tas poutsas mou"
+      }
     }
-  ],
-  "profile": [{
-    "name": "Bourdela",
-    "surname": "Me8aniwtiko Provatofido"
-  }
-  ]
-}
 ]
