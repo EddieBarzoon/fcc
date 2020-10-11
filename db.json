@@ -1,3 +1,28 @@
+[
+{
+  "id": 1,
+  "name": "Theofanis KAvouras",
+  "username": "meeeeeeee",
+  "email": "theo@theo.com",
+  "address": {
+    "street": "Gamw kai Dernw",
+    "suite": "Apt. 556",
+    "city": "Katw kolomedagkona",
+    "zipcode": "92998-3874",
+    "geo": {
+      "lat": "-xxxxxxx",
+      "lng": "yyyyyyy"
+    }
+  },
+  "phone": "1-770-736-8031 x56442",
+  "website": "theo.org",
+  "company": {
+    "name": "Gamistronas FC",
+    "catchPhrase": "JSON rules",
+    "bs": "skata sta moutra sas malakes"
+  }
+},
+
 {
   "id": 2,
   "name": "Paraskevas Koutsikos",
@@ -21,3 +46,4 @@
     "bs": "Niptw tas poutsas mou"
   }
 }
+]
