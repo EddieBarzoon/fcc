@@ -1,19 +1,17 @@
 [
   {
     "id": 1,
-    ""name": "Paraskevas Koutsikos",
-      "username": "Trobetes",
-      "email": "theo@theo.com",
-      "phone": "123456789",
-      "website": "theo.org",
-      "address": {
-        "street": "Gamw kai Dernw",
-        "suite": "Apt. 556",
-        "city": "Katw kolomedagkona",
-        "zipcode": "111-222-333",
-        "geo": {
-          "lat": "-xxxxxxx",
-          "lng": "yyyyyyy"
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
       }
     },
     "phone": "1-770-736-8031 x56442",
