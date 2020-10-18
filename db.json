@@ -2,48 +2,48 @@
   "users": [
     {
     "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
+    "name": "Theofanis Kavouras",
+    "username": "Kobra",
+    "email": "theo@fcc.com",
     "address": {
-      "street": "Kulas Light",
+      "street": "Yo man",
       "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
+      "city": "Byron",
+      "zipcode": "15543",
       "geo": {
         "lat": "-37.3159",
         "lng": "81.1496"
       }
     },
     "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
+    "website": "fcc.com",
     "company": {
-      "name": "Romaguera-Crona",
-      "catchPhrase": "Multi-layered client-server neural-net",
-      "bs": "harness real-time e-markets"
+      "name": "Giant corporation",
+      "catchPhrase": "Poutsa sta travelia",
+      "bs": "Vevaiws"
     }
   },
   {
     "id": 2,
-    "name": "Ervin Howell",
-    "username": "Antonette",
-    "email": "Shanna@melissa.tv",
+    "name": "Paraskevas Koutsikos",
+    "username": "Provatofido",
+    "email": "Paraskevas@me8ana.tv",
     "address": {
-      "street": "Victor Plains",
-      "suite": "Suite 879",
-      "city": "Wisokyburgh",
-      "zipcode": "90566-7771",
+      "street": "Andrea Papandreou",
+      "suite": "Suite 1",
+      "city": "Me8ana",
+      "zipcode": "22390",
       "geo": {
         "lat": "-43.9509",
         "lng": "-34.4618"
       }
     },
     "phone": "010-692-6593 x09125",
-    "website": "anastasia.net",
+    "website": "me8ana.org",
     "company": {
-      "name": "Deckow-Crist",
-      "catchPhrase": "Proactive didactic contingency",
-      "bs": "synergize scalable supply-chains"
+      "name": "Stanh.me8",
+      "catchPhrase": "Geia sas hr8a 8a gamh8hte",
+      "bs": "Vevaiws"
     }
   },
   {
@@ -234,16 +234,16 @@
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
+      "body": "Sex me andra se kanei andra",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "some comment",
+      "body": "Vre mpourdela",
       "postId": 1
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "O monos sovaros an8rwpos"
   }
 }
